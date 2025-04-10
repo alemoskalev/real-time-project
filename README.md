@@ -1,4 +1,4 @@
-# Smart Room Monitoring System
+# Real-Time Smart Room Monitoring System
 
 This project outlines a comprehensive, scalable IoT-based Room Monitoring System utilizing ESP32 microcontrollers. It tracks and monitors environmental conditions and occupancy in real-time. Data is collected from various sensors, processed, transmitted, and visualized through a user-friendly Flutter dashboard integrated with Arduino IoT Cloud and Firebase.
 

@@ -1,0 +1,7 @@
+ran into issue with firebse_Clinet.
+
+first I could not properly download library using wizard, then during manual installiation ran into issue with downloading olde version. No matter which "Firebase_ESP32_Client" I download all apear as "Firebase_Arduino_Client_Library_for_ESP8266_and_ESP32"
+
+Then when changed code to use old libary there was a clash with ardiono cloud library because both libarries include "BearSSL" implemetation. 
+
+We have decided ot use HTTP client to post firebase requists

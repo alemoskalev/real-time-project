@@ -1,7 +1,7 @@
 #include "firebase.h"
-const char* ssid = "Sneaky";
-const char* password = "sneaky721";
-const char* firebaseHost = "https://realtime-a5389-default-rtdb.firebaseio.com";
+const char* ssid = "WIFI/Hotspot SSID";
+const char* password = "WIFI/Hotspot password";
+const char* firebaseHost = "Your_Firebase_Host_URL";
 
 void connectWiFi() {
   WiFi.begin(ssid, password);

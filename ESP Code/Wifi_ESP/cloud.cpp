@@ -1,13 +1,13 @@
 #include "cloud.h"
 
 // 1) WiFi Credentials
-const char SSID[]      = "Sneaky";
-const char PASS[]      = "sneaky721";
+const char SSID[]      = "WIFI/Hotspot SSID";
+const char PASS[]      = "WIFI/Hotspot password";
 
 // 2) Device and Thing IDs
-const char THING_ID[]  = "b7b13393-839d-42bb-941d-99cb204dcdc7";
-const char BOARD_ID[]  = "e9fe0c2d-a2c8-47eb-b473-fe0d6b7b5ccc";
-const char DEVICE_KEY[] = "w2kz!rF6yChPYMZIQ#hDlXR@R";
+const char THING_ID[]  = "Your_thingID_from_Arduino_Cloud";
+const char BOARD_ID[]  = "Your_boardID_from_Arduino_Cloud";
+const char DEVICE_KEY[] = "Your_secretKey_From_Arduino_Cloud";
 
 // 3) Cloud variables
 float humidityCloud;

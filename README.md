@@ -38,8 +38,6 @@ SmartRoomMonitoring/
 │       └── sensor_table_card.dart
 |
 ├── uml diagrams/
-│   ├── system_design_uml.png
-│   └── class_diagram.png
 |
 ├── circuit diagram.png
 |
